@@ -20,3 +20,7 @@ Take outputs from both SVD and Deep Learning models.
 Combine them using a meta-ranking model (e.g., XGBoost, Neural Network, or Logistic Regression).
 
 Train the ranking model using interactions between the two recommendation scores and the actual user ratings.
+
+
+https://github.com/user-attachments/assets/5ec13540-c0fc-4f04-8f93-3383729ba98b
+

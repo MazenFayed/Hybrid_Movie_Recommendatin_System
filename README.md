@@ -22,7 +22,7 @@ Train a deep learning model to predict a user’s preference for a given movie.
 3️⃣ Ranking Model
 Take outputs from both SVD and Deep Learning models.
 
-Combine them using a meta-ranking model (e.g., XGBoost, Neural Network, or Logistic Regression).
+Combine them and get best avg rate from both using weighted average.
 
 Train the ranking model using interactions between the two recommendation scores and the actual user ratings.
 

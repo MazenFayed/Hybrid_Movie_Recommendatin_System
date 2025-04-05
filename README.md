@@ -1,7 +1,7 @@
 # You can recreate the environment later using:
 conda env create -f environment.yml
 # you can only install requirments into your repository using:
-pip install -r requirements.txt.
+pip install -r requirements.txt
 
 # Hybrid_Movie_Recommendatin_System
 
